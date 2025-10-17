@@ -9,13 +9,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hirugamage&label=Profile%20views&color=0e75b6&style=flat" alt="hirugamage" /> </p>
 
 - 🔭 I’m currently working on **fiverr**
-
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 - 🌱 I’m currently learning **AL's**
 
 - 📫 How to reach me **lilxhiruu.t.me**
 
 - ⚡ Fun fact **Call me hiru**
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/_.hi.ru_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.hi.ru_" height="30" width="40" /></a>
