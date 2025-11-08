@@ -30,8 +30,14 @@
   <a href="https://instagram.com/_.hi.ru_" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-  <a href="https://youtube.com/@xhiruu1?si=KgQJtYLrtUcpMPqy" target="_blank">
+  <a href="https://www.youtube.com/c/xhiruu1" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
+  </a>
+  <a href="https://www.tiktok.com/@xhiruu1?_r=1&_t=ZS-91DskpcxQCF" target="_blank">
+    <img align="center" src="https://www.readmecodegen.com/api/social-icon?name=tiktok&size=24&theme=github&color=%23000000" alt="TikTok" height="30" width="30" />
+  </a>
+  <a href="https://lilxhiruu.t.me" target="_blank">
+    <img align="center" src="https://www.readmecodegen.com/api/social-icon?name=telegram&size=24&theme=github" alt="Telegram" height="30" width="30" />
   </a>
 </p>
 
