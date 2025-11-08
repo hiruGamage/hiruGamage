@@ -34,10 +34,10 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
   </a>
   <a href="https://www.tiktok.com/@xhiruu1?_r=1&_t=ZS-91DskpcxQCF" target="_blank">
-    <img align="center" src="https://www.readmecodegen.com/api/social-icon?name=tiktok&size=24&theme=github&color=%23000000" alt="TikTok" height="30" width="30" />
+    <img align="center" src="https://www.readmecodegen.com/api/social-icon?name=tiktok&size=32&color=%23ffffff" alt="TikTok" height="30" width="30" />
   </a>
   <a href="https://lilxhiruu.t.me" target="_blank">
-    <img align="center" src="https://www.readmecodegen.com/api/social-icon?name=telegram&size=24&theme=github" alt="Telegram" height="30" width="30" />
+    <img align="center" src="https://www.readmecodegen.com/api/social-icon?name=telegram&size=32&color=%233b82f6" alt="Telegram" height="30" width="30" />
   </a>
 </p>
 
