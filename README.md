@@ -18,7 +18,6 @@
 ### 💫 About Me
 - 🔭 I’m currently working on **Fiverr**  
 - 🌱 I’m currently learning **A/L’s**  
-- 📫 Reach me at **[lilxhiruu.t.me](https://lilxhiruu.t.me)**  
 - ⚡ Fun fact: **Call me Hiru 😎**
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="fun gif" />
@@ -30,7 +29,7 @@
   <a href="https://instagram.com/_.hi.ru_" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-  <a href="https://www.youtube.com/c/xhiruu1" target="_blank">
+  <a href="https://youtube.com/@xhiruu1?si=9X6wikeAcG7WrFzZ" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
   </a>
   <a href="https://www.tiktok.com/@xhiruu1?_r=1&_t=ZS-91DskpcxQCF" target="_blank">
