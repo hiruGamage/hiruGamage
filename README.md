@@ -80,5 +80,7 @@
 <div align="center">
   🌐 <a href="https://SGamage.site" target="_blank">SGamage.site</a> • 📝 <a href="https://justhiruu.t.me" target="_blank">justhiruu.t.me</a>
 </div>
+
 ---
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=100&section=footer&text=Thanks%20for%20Visiting%20👋🏻&fontSize=25&fontColor=61DAFB&animation=twinkling" />
