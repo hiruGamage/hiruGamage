@@ -1,3 +1,9 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Code%20By%20Sg&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&section=header" />
+
+💡 *“Crafting logic and elegance in every line of code.”*
+
+---
+
 <div align="center">
   <img height="160" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Developer gif" />
 </div>
@@ -9,34 +15,52 @@
 
 ---
 
+<div align="center">
+    <picture><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="center" style="width: 100%" /><picture>
+</div>
+
+---
+
+### 📬 Connect with Me  
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hirugamage&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+ 
+  <a href="https://www.linkedin.com/in/sahas-gamage-999064399">
+    <img src="https://img.shields.io/badge/LinkedIn-091519?style=for-the-badge&logo=linkedin&logoColor=61DAFB" />
+  </a>
+  <a href="https://www.instagram.com/_.hi.ru_?igsh=MWY0M3hmMXd0OGxqNw==">
+    <img src="https://img.shields.io/badge/Instagram-091519?style=for-the-badge&logo=instagram&logoColor=61DAFB" />
+  </a>
+  
+
+</p>
+
+<p align="center">
+  <a href="https://github.com/Hirugamage">
+    <img src="https://komarev.com/ghpvc/?username=Hirugamage&color=3a8296&label=Profile%20Views" />
+  </a>
+  <a href="https://github.com/Hirugamage">
+    <img src="https://img.shields.io/github/followers/hirugamage?label=GitHub%20Followers&color=3a8296&style=flat" />
+  </a>
+</p>
+
+---<img align="right" width="25%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+
+### 🧠 Skills
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,c,js,html,css,nodejs,php&theme=light" />
+  </a>
 </p>
 
 ---
 
-### 💫 About Me
-- 🔭 I’m currently working on **Fiverr**  
-- 🌱 I’m currently learning **A/L’s**  
-- ⚡ Fun fact: **Call me Hiru 😎**
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="fun gif" />
-
----
-
-### 🤝 Connect With Me
-<p align="left">
-  <a href="https://instagram.com/_.hi.ru_" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://youtube.com/@xhiruu1?si=9X6wikeAcG7WrFzZ" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
-  </a>
-  <a href="https://www.tiktok.com/@xhiruu1?_r=1&_t=ZS-91DskpcxQCF" target="_blank">
-    <img align="center" src="https://www.readmecodegen.com/api/social-icon?name=tiktok&size=32&color=%23ffffff" alt="TikTok" height="30" width="30" />
-  </a>
-  <a href="https://lilxhiruu.t.me" target="_blank">
-    <img align="center" src="https://www.readmecodegen.com/api/social-icon?name=telegram&size=32&color=%233b82f6" alt="Telegram" height="30" width="30" />
+### ⚙️ Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,linux&theme=light" />
   </a>
 </p>
 
@@ -56,3 +80,5 @@
 <div align="center">
   🌐 <a href="https://SGamage.site" target="_blank">SGamage.site</a> • 📝 <a href="https://justhiruu.t.me" target="_blank">justhiruu.t.me</a>
 </div>
+---
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=100&section=footer&text=Thanks%20for%20Visiting%20👋🏻&fontSize=25&fontColor=61DAFB&animation=twinkling" />
