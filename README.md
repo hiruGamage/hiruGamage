@@ -5,7 +5,7 @@
 ###
 
 <h1 align="center">Itz Meh Hiru</h1>
-<h3 align="center">Designer | Creator | Self-Influencer</h3>
+<h3 align="center">Designer | Creator | Self Influencer</h3>
 
 ---
 
@@ -52,13 +52,7 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hirugamage&show_icons=true&locale=en&layout=compact" alt="Top languages" />
-</p>
-
----
 
 <div align="center">
-  🌐 <a href="https://bysg.uk" target="_blank">bysg.uk</a> • 📝 <a href="https://justhiruu.t.me" target="_blank">justhiruu.t.me</a>
+  🌐 <a href="https://SGamage.site" target="_blank">SGamage.site</a> • 📝 <a href="https://justhiruu.t.me" target="_blank">justhiruu.t.me</a>
 </div>
