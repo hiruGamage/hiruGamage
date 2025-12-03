@@ -44,7 +44,9 @@
   </a>
 </p>
 
----<img align="right" width="25%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+--- 
+
+<img align="right" width="25%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 
 ### 🧠 Skills
 
