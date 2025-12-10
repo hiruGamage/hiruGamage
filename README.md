@@ -80,7 +80,7 @@
 
 
 <div align="center">
-  🌐 <a href="https://SGamage.site" target="_blank">SGamage.site</a> • 📝 <a href="https://justhiruu.t.me" target="_blank">justhiruu.t.me</a>
+  🌐 <a href="https://SGamage.site" target="_blank">portfolio</a> • 📝 <a href="https://justhiruu.t.me" target="_blank">Blog / update </a>
 </div>
 
 ---
