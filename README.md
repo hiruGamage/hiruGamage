@@ -10,7 +10,7 @@
 
 ###
 
-<h1 align="center">Itz Meh Hiru</h1>
+<h1 align="center">Itz Meh</h1>
 <h3 align="center">Designer | Creator | Self Influencer</h3>
 
 ---
